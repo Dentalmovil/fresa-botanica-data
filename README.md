@@ -234,5 +234,35 @@ La fresa es valorada en la industria procesadora no solo por su sabor, sino por 
 ![Fresa madura](https://images.unsplash.com/photo-1464965911861-746a04b4bca6?q=80&w=1000&auto=format&fit=crop)
 *Figura 1: Fragaria × ananassa en su punto óptimo de madurez.*
 
+# 🍓 Caracterización Técnica de la Fresa (*Fragaria × ananassa*)
+
+Bienvenido a este repositorio de investigación botánica y comercial sobre la fresa. Este proyecto analiza desde la genética del híbrido comercial hasta los procesos fisicoquímicos de maduración y su impacto en la industria.
+
+![Portada Fresa](https://images.unsplash.com/photo-1464965911861-746a04b4bca6?q=80&w=1000&auto=format&fit=crop)
+
+## 📋 Índice de Contenidos
+Haz clic en los enlaces para explorar la documentación técnica:
+
+1.  **[Clasificación y Taxonomía](./docs/clasificacion.md)**: Origen del híbrido y detalles botánicos.
+2.  **[Fisiología de la Maduración](./docs/maduracion.md)**: Análisis del proceso no climatérico.
+3.  **[Análisis Organoléptico](./docs/organoleptica.md)**: Parámetros de color, sabor, olor y textura.
+4.  **[Usos y Destinos](./docs/usos.md)**: Consumo en fresco vs. Transformación industrial.
+
+---
+
+## 🔬 Resumen del Proyecto
+
+Este repositorio utiliza diagramas de **Mermaid** para visualizar procesos biológicos complejos. Por ejemplo, el ciclo de vida comercial del fruto:
+
+```mermaid
+graph TD
+    A[Planta Madre] -->|Crecimiento| B(Floración)
+    B -->|Desarrollo| C(Fruto Verde)
+    C -->|Maduración en Planta| D{Punto Óptimo}
+    D -->|Cosecha| E[Consumo Fresco]
+    D -->|Excedentes| F[Industria/Procesado]
+    
+    style D fill:#ff4d4d,color:#fff
+
 
 
