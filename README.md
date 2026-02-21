@@ -38,17 +38,18 @@ A diferencia de frutas como el tomate o el banano, la fresa se clasifica como **
 
 La maduración en la planta sigue una secuencia metabólica específica:
 
+graph LR
+    A[Verde: Inmadura] --> B[Blanca: Expansión]
+    B --> C[Rosada: Inicio Antocianinas]
+    C --> D[Roja: Madurez de Consumo]
+    style D fill:#f96,stroke:#333,stroke-width:4px
+
 | Fase | Indicador Visual | Proceso Bioquímico |
 | :--- | :--- | :--- |
 | **División Celular** | Fruto verde pequeño | Alta síntesis de clorofila y ácidos orgánicos. |
 | **Expansión Celular** | Fruto blanco/crema | Acumulación de agua y degradación inicial de pectinas. |
 | **Madurez de Consumo** | Rojo brillante | Síntesis de antocianinas y volátiles aromáticos. |
 
-graph LR
-    A[Verde: Inmadura] --> B[Blanca: Expansión]
-    B --> C[Rosada: Inicio Antocianinas]
-    C --> D[Roja: Madurez de Consumo]
-    style D fill:#f96,stroke:#333,stroke-width:4px
 
 ---
 
