@@ -120,6 +120,63 @@ Existen cientos de cultivares, pero se dividen principalmente por su respuesta a
 
 ---
 [Volver al índice del proyecto](../README.md)
+# Análisis Organoléptico y Fisicoquímico de la Fresa
+
+Este documento describe las propiedades sensoriales y los parámetros de calidad técnica de la *Fragaria × ananassa*. Estos factores definen la aceptación del consumidor y el valor comercial del producto.
+
+## 1. Perfil Sensorial (Organoléptico)
+
+El análisis organoléptico se basa en la percepción a través de los sentidos:
+
+| Atributo | Descripción Técnica | Indicador de Calidad |
+| :--- | :--- | :--- |
+| **Color** | Presencia de antocianinas (pelargonidina). | Rojo brillante uniforme (Índice de color > 4). |
+| **Olor** | Compuestos volátiles (ésteres y furanonas). | Aroma intenso "a fresa", fresco y dulce. |
+| **Sabor** | Balance entre azúcares y ácidos orgánicos. | Dulzor predominante con acidez cítrica ligera. |
+| **Textura** | Turgencia y resistencia de la epidermis. | Firme al tacto, jugosa al morder (sin ser harinosa). |
+
+---
+
+## 2. Parámetros Fisicoquímicos de Madurez
+
+Para que un análisis sea objetivo en un proyecto técnico, se utilizan medidas de laboratorio:
+
+### 🍯 Sólidos Solubles Totales (SST)
+Se miden en **Grados Brix (°Bx)** mediante un refractómetro. 
+* **Rango óptimo:** 7% - 12%. 
+* Un valor bajo indica cosecha prematura o exceso de riego.
+
+### 🍋 Acidez Titulable (AT)
+Mide la concentración de ácidos (principalmente ácido cítrico).
+* **Rango común:** 0.6% - 1.2%.
+* La relación **SST/AT** (Índice de Madurez) es el mejor predictor del sabor aceptable para el consumidor.
+
+### 🌡️ Firmeza
+Se mide con un **penetrómetro** (fuerza necesaria para atravesar la pulpa). 
+* Una pérdida rápida de firmeza indica una degradación avanzada de las pectinas y una vida útil corta.
+
+---
+
+## 3. Factores que Afectan la Calidad
+
+1. **Genética:** Cada variedad (ej. *Albion, San Andreas, Camarosa*) tiene un perfil de sabor distinto.
+2. **Nutrición:** El potasio (K) es vital para la síntesis de azúcares y el color.
+3. **Poscosecha:** La temperatura de almacenamiento (idealmente 0°C - 2°C) es el factor crítico para mantener la textura y evitar el crecimiento de hongos.
+
+
+
+---
+
+## 4. Guía de Selección Visual
+
+En un entorno comercial, se utilizan cartas de colores para clasificar la fruta:
+* **Grado 1 (Verde/Blanco):** No apto para consumo (inmaduro).
+* **Grado 2 (Iniciado):** 25% - 50% de superficie roja.
+* **Grado 3 (Maduro):** >75% de superficie roja (Ideal para transporte a larga distancia).
+* **Grado 4 (Plena madurez):** 100% rojo intenso (Consumo local inmediato).
+
+---
+[Volver al índice del proyecto](../README.md)
 
 
 
