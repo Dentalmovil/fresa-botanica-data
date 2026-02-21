@@ -20,3 +20,53 @@ Este repositorio contiene una investigación detallada sobre la fresa, abordando
 
 ---
 Desarrollado como proyecto de estudio sobre fisiología vegetal.
+# Fisiología de la Maduración: *Fragaria × ananassa*
+
+Este documento detalla los procesos biofísicos y químicos que ocurren durante el desarrollo del fruto de la fresa, destacando su clasificación como fruto **no climatérico**.
+
+## 1. Clasificación Fisiológica
+A diferencia de frutas como el tomate o el banano, la fresa se clasifica como **no climatérica**.
+
+### Implicaciones críticas:
+* **Dependencia de la planta madre:** La acumulación de azúcares y compuestos aromáticos cesa en el momento de la cosecha.
+* **Baja producción de etileno:** No presenta un "pico" respiratorio ni una respuesta significativa al etileno externo para madurar.
+* **Vida útil:** Una vez cosechada, comienza un proceso de senescencia (envejecimiento) inmediato sin mejora en la calidad gustativa.
+
+---
+
+## 2. Fases del Proceso de Maduración
+
+La maduración en la planta sigue una secuencia metabólica específica:
+
+| Fase | Indicador Visual | Proceso Bioquímico |
+| :--- | :--- | :--- |
+| **División Celular** | Fruto verde pequeño | Alta síntesis de clorofila y ácidos orgánicos. |
+| **Expansión Celular** | Fruto blanco/crema | Acumulación de agua y degradación inicial de pectinas. |
+| **Madurez de Consumo** | Rojo brillante | Síntesis de antocianinas y volátiles aromáticos. |
+
+---
+
+## 3. Transformaciones Químicas Clave
+
+### 🟢 Degradación de Clorofila y Síntesis de Antocianinas
+El cambio de color es el resultado de la degradación de la clorofila, desenmascarando y sintetizando nuevos pigmentos (principalmente *pelargonidina-3-glucósido*), responsables del rojo intenso.
+
+### 🍬 Acumulación de Sólidos Solubles (SS)
+El sabor dulce proviene de la translocación de azúcares desde las hojas. 
+> **Nota técnica:** Se recomienda la cosecha cuando el fruto alcanza entre **7° y 10° Brix** (medida de concentración de azúcar).
+
+### ☁️ Ablandamiento de Textura
+Las enzimas (como la *poligalacturonasa*) hidrolizan la pectina de la pared celular, transformando un tejido rígido en uno tierno y jugoso.
+
+---
+
+## 4. Factores de Deterioro Post-Cosecha
+Al no poder madurar fuera de la planta, el manejo se enfoca en **frenar la degradación**:
+
+1. **Respiración:** La fresa tiene una de las tasas respiratorias más altas entre las frutas.
+2. **Transpiración:** Pérdida de agua que causa pérdida de brillo y turgencia.
+3. **Patógenos:** Alta susceptibilidad al hongo *Botrytis cinerea* debido a la suavidad de su epidermis.
+
+---
+[Volver al índice del proyecto](../README.md)
+
