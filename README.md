@@ -178,5 +178,55 @@ En un entorno comercial, se utilizan cartas de colores para clasificar la fruta:
 ---
 [Volver al índice del proyecto](../README.md)
 
+# Usos y Destinos Comerciales de la Fresa
+
+La versatilidad de la *Fragaria × ananassa* permite que se integre en diversas cadenas de valor, desde el consumo directo hasta procesos industriales complejos.
+
+## 1. Consumo en Fresco (Mercado de Mesa)
+
+Es el destino con mayor valor comercial. Debido a la naturaleza **no climatérica** del fruto, la logística es el factor crítico.
+
+### Requisitos de Calidad:
+* **Estética:** Frutos uniformes, sin deformaciones y con el cáliz (hojas) verde y fresco.
+* **Calibre:** Se prefieren tamaños grandes y medianos.
+* **Cadena de Frío:** Mantenimiento estricto entre 0°C y 2°C desde la recolección hasta el punto de venta.
+
+---
+
+## 2. Transformación Industrial
+
+Cuando la fruta no cumple los estándares visuales para "mesa" o hay excedentes de producción, se procesa para aumentar su vida útil.
+
+### Principales Subproductos:
+| Proceso | Aplicación Común |
+| :--- | :--- |
+| **Congelación (IQF)** | Repostería, batidos y smoothies. |
+| **Tratamiento Térmico** | Mermeladas, jaleas y almíbares. |
+| **Deshidratación** | Snacks y mezclas de cereales. |
+| **Liofilización** | Productos premium y alimentación espacial/deportiva. |
+| **Extracción** | Concentrados para zumos y licores. |
+
+---
+
+## 3. Valor Agregado en la Industria
+
+La fresa es valorada en la industria procesadora no solo por su sabor, sino por sus propiedades funcionales:
+1. **Pectinas naturales:** Facilitan la gelificación en mermeladas.
+2. **Colorantes naturales:** Su pigmento se utiliza para dar color a lácteos sin necesidad de aditivos artificiales.
+3. **Perfil Aromático:** Es uno de los sabores más replicados y demandados a nivel global en la industria de confitería.
+
+---
+
+## 4. Comparativa de Mercado
+
+| Factor | Fresco | Industrial |
+| :--- | :--- | :--- |
+| **Precio por Kg** | Alto | Moderado / Bajo |
+| **Perecederidad** | Muy alta (días) | Baja (meses/años) |
+| **Exigencia Visual** | Máxima | Mínima |
+
+---
+[Volver al índice del proyecto](../README.md)
+
 
 
