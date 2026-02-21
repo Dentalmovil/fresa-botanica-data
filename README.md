@@ -43,6 +43,7 @@ La maduración en la planta sigue una secuencia metabólica específica:
 | **División Celular** | Fruto verde pequeño | Alta síntesis de clorofila y ácidos orgánicos. |
 | **Expansión Celular** | Fruto blanco/crema | Acumulación de agua y degradación inicial de pectinas. |
 | **Madurez de Consumo** | Rojo brillante | Síntesis de antocianinas y volátiles aromáticos. |
+
 graph LR
     A[Verde: Inmadura] --> B[Blanca: Expansión]
     B --> C[Rosada: Inicio Antocianinas]
