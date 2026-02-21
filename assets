@@ -1,5 +1,0 @@
-graph LR
-    A[Verde: Inmadura] --> B[Blanca: Expansión]
-    B --> C[Rosada: Inicio Antocianinas]
-    C --> D[Roja: Madurez de Consumo]
-    style D fill:#f96,stroke:#333,stroke-width:4px
