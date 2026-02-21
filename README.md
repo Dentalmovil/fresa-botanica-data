@@ -43,6 +43,11 @@ La maduración en la planta sigue una secuencia metabólica específica:
 | **División Celular** | Fruto verde pequeño | Alta síntesis de clorofila y ácidos orgánicos. |
 | **Expansión Celular** | Fruto blanco/crema | Acumulación de agua y degradación inicial de pectinas. |
 | **Madurez de Consumo** | Rojo brillante | Síntesis de antocianinas y volátiles aromáticos. |
+graph LR
+    A[Verde: Inmadura] --> B[Blanca: Expansión]
+    B --> C[Rosada: Inicio Antocianinas]
+    C --> D[Roja: Madurez de Consumo]
+    style D fill:#f96,stroke:#333,stroke-width:4px
 
 ---
 
@@ -69,6 +74,7 @@ Al no poder madurar fuera de la planta, el manejo se enfoca en **frenar la degra
 
 ---
 [Volver al índice del proyecto](../README.md)
+
 # Clasificación Taxonómica y Botánica de la Fresa
 
 Este documento detalla la identidad técnica de la fresa, su origen híbrido y su posición dentro del reino vegetal.
@@ -120,6 +126,7 @@ Existen cientos de cultivares, pero se dividen principalmente por su respuesta a
 
 ---
 [Volver al índice del proyecto](../README.md)
+
 # Análisis Organoléptico y Fisicoquímico de la Fresa
 
 Este documento describe las propiedades sensoriales y los parámetros de calidad técnica de la *Fragaria × ananassa*. Estos factores definen la aceptación del consumidor y el valor comercial del producto.
