@@ -69,4 +69,57 @@ Al no poder madurar fuera de la planta, el manejo se enfoca en **frenar la degra
 
 ---
 [Volver al índice del proyecto](../README.md)
+# Clasificación Taxonómica y Botánica de la Fresa
+
+Este documento detalla la identidad técnica de la fresa, su origen híbrido y su posición dentro del reino vegetal.
+
+## 1. Jerarquía Taxonómica
+
+| Categoría | Clasificación |
+| :--- | :--- |
+| **Reino** | Plantae |
+| **División** | Magnoliophyta |
+| **Clase** | Magnoliopsida |
+| **Orden** | Rosales |
+| **Familia** | Rosaceae |
+| **Género** | *Fragaria* |
+| **Especie Comercial** | *Fragaria × ananassa* |
+
+---
+
+## 2. Nomenclatura: ¿Por qué *Fragaria × ananassa*?
+
+La fresa moderna no es una especie que se encuentre de forma natural en los bosques, sino un **híbrido interespecífico**.
+
+### El significado del nombre:
+* **Fragaria:** Deriva del latín *fragans* (fragante), debido al aroma intenso del fruto.
+* **El símbolo "×":** Indica que es un cruce entre dos especies. En este caso, ocurrió en Francia en el siglo XVIII entre:
+    1.  *Fragaria chiloensis* (procedente de Chile).
+    2.  *Fragaria virginiana* (procedente de Norteamérica).
+* **ananassa:** Se le otorgó este epíteto porque su sabor y aroma recordaban a la piña (*Ananas comosus*).
+
+---
+
+## 3. Morfología del "Fruto"
+
+Es común cometer el error de llamar "fruto" a la parte roja y carnosa, pero técnicamente la fresa es un **fruto agregado**.
+
+### Anatomía técnica:
+* **Receptáculo:** La parte roja y suculenta es el receptáculo de la flor que se ha engrosado.
+* **Aquenios:** Son los verdaderos frutos botánicos (esos pequeños puntos sobre la superficie). Cada "semilla" es, en realidad, un fruto seco que contiene una semilla en su interior.
+* **Estolones:** Método de reproducción asexual principal de la planta, permitiendo su propagación rápida en cultivos comerciales.
+
+---
+
+## 4. Variedades Comunes en la Industria
+Existen cientos de cultivares, pero se dividen principalmente por su respuesta al fotoperiodo (luz solar):
+
+1.  **No removantes (Día corto):** Florecen solo cuando los días son cortos (invierno/primavera).
+2.  **Removantes (Día largo):** Pueden florecer durante gran parte del año si las temperaturas son adecuadas.
+3.  **Día neutro:** Su floración no depende de la duración del día, sino de la temperatura acumulada.
+
+---
+[Volver al índice del proyecto](../README.md)
+
+
 
