@@ -228,5 +228,8 @@ La fresa es valorada en la industria procesadora no solo por su sabor, sino por 
 ---
 [Volver al índice del proyecto](../README.md)
 
+![Fresa madura](https://images.unsplash.com/photo-1464965911861-746a04b4bca6?q=80&w=1000&auto=format&fit=crop)
+*Figura 1: Fragaria × ananassa en su punto óptimo de madurez.*
+
 
 
